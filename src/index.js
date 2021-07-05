@@ -1,0 +1,1 @@
+console.log("Program javascript wira perdana")

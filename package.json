@@ -1,11 +1,20 @@
 {
   "name": "tugasmandiri3",
   "version": "1.0.0",
-  "description": "",
+  "description": "ini raeadme",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiraprdn/tugasmandiri3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wiraprdn/tugasmandiri3/issues"
+  },
+  "homepage": "https://github.com/wiraprdn/tugasmandiri3#readme"
 }
